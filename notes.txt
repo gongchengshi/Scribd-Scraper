@@ -1,0 +1,3 @@
+Example URL for getting download URL of documents
+
+http://api.scribd.com/api?method=docs.getDownloadUrl&api_key=<api_key>&doc_id=41441767&doc_type=txt
